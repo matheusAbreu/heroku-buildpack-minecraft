@@ -1,11 +1,11 @@
 {
-  "name": "Minecraft",
+  "name": "Uezoocraft",
   "description": "A Minecraft Server on Heroku",
   "keywords": [
     "games",
     "minecraft"
   ],
-  "repository": "https://github.com/jkutner/heroku-buildpack-minecraft",
+  "repository": "https://https://github.com/matheusAbreu/heroku-buildpack-minecrafts",
   "env": {
     "MINECRAFT_EULA": {
       "description": "Do you accept the Minecraft EULA?",
